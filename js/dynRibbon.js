@@ -314,7 +314,7 @@ new Ribbons({
 	colorSaturation: "60%",
 	colorBrightness: "50%",
 	colorAlpha: 0.5,
-	colorCycleSpeed: 5,
+	colorCycleSpeed: 2,
 	verticalPosition: "random",
 	horizontalSpeed: 200,
 	ribbonCount: 3,
